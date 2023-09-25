@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background">#FF018786</color>
+    <color name="lgbtn">#FFEB3B</color>
+    <color name="textcolor">#FF000000</color>
+    <color name="tchint">#616060</color>
 </resources>
