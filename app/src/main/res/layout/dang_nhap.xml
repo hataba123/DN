@@ -28,10 +28,10 @@
         android:id="@+id/button"
         android:layout_width="281dp"
         android:layout_height="50dp"
-        android:backgroundTint="#FFEB3B"
+        android:backgroundTint="@color/lgbtn"
         android:shadowColor="@color/black"
         android:text="Đăng nhập"
-        android:textColor="@color/black"
+        android:textColor="@color/textcolor"
         android:textSize="20dp"
         android:textStyle="bold"
         app:circularflow_radiusInDP="100dp"
@@ -81,7 +81,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:hint="User name"
-        android:textColorHint="#616060"
+        android:textColorHint="@color/tchint"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="254dp" />
 

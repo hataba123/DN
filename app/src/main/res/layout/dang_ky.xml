@@ -52,7 +52,7 @@
         android:text="Quay lại"
         android:textStyle="bold"
         android:textSize="20dp"
-        android:textColor="@color/black"
+        android:textColor="@color/textcolor"
          />
 
     <TextView
@@ -92,7 +92,7 @@ android:textStyle="bold"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPersonName"
-        android:textColorHint="#616060"
+        android:textColorHint="@color/tchint"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="330dp" />
 
@@ -114,7 +114,7 @@ android:textStyle="bold"
         android:ems="10"
         android:hint="Email"
         android:inputType="textPersonName"
-        android:textColorHint="#616060"
+        android:textColorHint="@color/tchint"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="398dp" />
 
@@ -125,7 +125,7 @@ android:textStyle="bold"
         android:ems="10"
         android:hint="Số điện thoại"
         android:inputType="textPersonName"
-        android:textColorHint="#616060"
+        android:textColorHint="@color/tchint"
         tools:layout_editor_absoluteX="132dp"
         tools:layout_editor_absoluteY="466dp" />
 
@@ -136,7 +136,7 @@ android:textStyle="bold"
         android:backgroundTint="#FFEB3B"
         android:shadowColor="@color/black"
         android:text="Đăng ký"
-        android:textColor="@color/black"
+        android:textColor="@color/textcolor"
         android:textSize="20dp"
         android:textStyle="bold"
         app:circularflow_radiusInDP="100dp"
